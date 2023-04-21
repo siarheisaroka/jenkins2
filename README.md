@@ -2,6 +2,8 @@
 simple jenkins pipeline
 
 Config file for external runner:
+
+```
 cat config.toml 
 concurrent = 1
 check_interval = 0
